@@ -14,4 +14,4 @@ generator uses can be found here: https://owasp.org/www-community/password-speci
 https://patricklquirk.github.io/password-generator/
 
 ## Image of site
-![Image of website](assets/images/website-screenshot.png)
+![Image of website](Assets/images/website-screenshot.png)
